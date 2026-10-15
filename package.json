@@ -1,0 +1,26 @@
+{
+  "name": "task-lens",
+  "version": "1.0.0",
+  "description": "Task Lens - a zero-dependency Node.js CLI that summarizes and filters tasks by status.",
+  "type": "module",
+  "private": true,
+  "main": "src/cli.js",
+  "bin": {
+    "task-lens": "src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node --test test/",
+    "test:in-process": "node --test --test-isolation=none test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "cli",
+    "tasks",
+    "zero-dependency",
+    "esm"
+  ],
+  "license": "MIT"
+}

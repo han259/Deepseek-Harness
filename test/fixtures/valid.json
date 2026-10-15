@@ -1,0 +1,5 @@
+[
+  { "title": "Only todo", "status": "todo" },
+  { "title": "Only doing", "status": "doing" },
+  { "title": "Only done", "status": "done" }
+]

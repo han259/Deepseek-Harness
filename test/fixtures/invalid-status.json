@@ -1,0 +1,4 @@
+[
+  { "title": "Valid task", "status": "todo" },
+  { "title": "Broken task", "status": "blocked" }
+]

@@ -1,0 +1,9 @@
+[
+  { "title": "Draft the project brief", "status": "done" },
+  { "title": "Sketch the CLI interface", "status": "done" },
+  { "title": "Implement task loading", "status": "doing" },
+  { "title": "Write the test suite", "status": "doing" },
+  { "title": "Publish the README", "status": "todo" },
+  { "title": "Add a CI workflow", "status": "todo" },
+  { "title": "Collect early feedback", "status": "todo" }
+]
